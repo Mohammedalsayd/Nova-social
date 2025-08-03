@@ -1,0 +1,8 @@
+name: nova_social
+version: 1.0.0+1
+description: Nova Social Demo App
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
